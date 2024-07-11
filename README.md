@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/pragyan.prakhar.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pragyan.prakhar.9" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pragyanprakhar?igsh=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pragyanprakhar?igsh=ogq5zdc2odk2za==" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pragyan_prakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pragyan_prakhar" height="30" width="40" /></a>
-<a href="https://leetcode.com/pragyanprakhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pragyanprakhar/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Pragyan__Prakhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pragyanprakhar/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pragyanprakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pragyanprakhar" height="30" width="40" /></a>
 </p>
 
